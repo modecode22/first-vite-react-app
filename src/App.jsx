@@ -4,7 +4,10 @@ import './App.css'
 function App() {
 
   return (
-    <div className="App">
+    <div className="bg-orange-400">
+dispatch
+    
+    <div className='text-white bg-black '>sedgfversdg</div>
     </div>
   )
 }
